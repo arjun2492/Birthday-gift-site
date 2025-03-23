@@ -93,7 +93,7 @@ h1, h2, h3, h4, p {
     height:200px;
 }
 
-#gif-cheers {
+#gif-cheers:hover {
     background-image: url("https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWgwMXh6cXJ4Zm1iN3YxeTdrYnMyODR2MTFwc3NiMGxyeTI0bTJyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BPJmthQ3YRwD6QqcVD/giphy.gif");
 }
 
